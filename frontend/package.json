@@ -20,7 +20,7 @@
     "react-helmet": "^6.1.0",
     "react-images-upload": "^1.2.8",
     "react-loading-overlay": "^1.0.1",
-    "react-scripts": "4.0.0",
+    "react-scripts": "5.0.0",
     "react-spinners": "^0.9.0",
     "react-svg": "^11.1.0",
     "resize-observer-polyfill": "^1.5.1",
